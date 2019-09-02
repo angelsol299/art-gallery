@@ -113,9 +113,9 @@ img {
   -webkit-text-size-adjust: none;
 }
 
-html,
 body {
   height: 100%;
+  overflow: hidden;
 }
 
 /* gets the actual input out of the way; 
